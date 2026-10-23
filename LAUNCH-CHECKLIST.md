@@ -1,25 +1,20 @@
 # The Gentle Day launch checklist
 
-This is a public preview, not an operational shop. Recreated because the starter ZIP was unavailable. The four product concepts and illustrations are provisional; no PDF files, checkout, prices, or contact information have been invented.
+## Prepared
 
-## GitHub Pages
-
-In this repository, open Settings → Pages. Select Deploy from a branch, choose main and / (root), then Save. Wait for the Pages deployment to finish.
-
-Expected project URL (verify after deployment): https://lialit.github.io/the-gentle-day/
-
-Check all five HTML pages at that address, including navigation on mobile.
+- Four original English PDF products: Daily Planner (4 pages), Weekly Reset (4), Small Habits Tracker (3), Gratitude Journal (5).
+- Each product has A4 and US Letter editions and a separate printing guide.
+- Planned prices: USD 2.99 / 2.99 / 1.99 / 3.99; complete bundle USD 8.99.
+- Public site shows actual raster page previews; full paid PDFs and ZIPs are deliberately not stored in this public repository.
+- GitHub Pages uses main / root. Site: https://lialit.github.io/the-gentle-day/
 
 ## Before accepting orders
 
-- Confirm the four product names and descriptions; upload and inspect actual PDFs.
-- Confirm paper sizes, page counts, printing instructions, accessibility, and delivery process.
-- Supply verified seller identity and customer support details.
-- Confirm prices, currency, sales platform, and real payment links.
-- Finalize licensing and have privacy, sales, refunds, and cancellation information reviewed for the actual business and markets.
-- Replace provisional page illustrations with accurate previews.
-- Recheck policies when adding forms, payments, analytics, or third-party scripts.
+- Owner should review the English PDFs and test-print a page.
+- Upload product ZIPs to the chosen sales platform and configure file delivery.
+- Supply verified seller identity and public support email.
+- Finalize licensing, privacy, sales, refunds and cancellation policies for the actual business and markets.
+- Confirm platform suitability, pricing, currency, taxes and real payment links.
+- Complete a test purchase and verify customer download delivery before enabling checkout.
 
-## Files
-
-index.html, privacy.html, terms.html, refunds.html, contact.html, styles.css, favicon.svg, .nojekyll. All internal links are relative for GitHub project Pages. No build system or dependencies are required.
+The current PDFs are flat worksheets for handwriting; no interactive forms or planner-app hyperlinks are included.
