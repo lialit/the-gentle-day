@@ -12,9 +12,10 @@
 
 - Owner should review the English PDFs and test-print a page.
 - Upload product ZIPs to the chosen sales platform and configure file delivery.
-- Supply verified seller identity and public support email.
-- Finalize licensing, privacy, sales, refunds and cancellation policies for the actual business and markets.
+- Public contact supplied by owner: Olena Digital Studio, Ukraine; limiriagonto@gmail.com. Confirm any additional legal seller disclosures required before sales.
+- Review the published pre-launch policy drafts. Proposed license: personal use, no resale/redistribution. Proposed voluntary refund window: 14 calendar days. Neither proposal is active until reviewed before sales.
 - Confirm platform suitability, pricing, currency, taxes and real payment links.
+- Paddle screenshot supplied by owner shows live setup, verification, and go-live all Not started. Confirm product eligibility and complete platform setup; verify download delivery in sandbox before enabling checkout.
 - Complete a test purchase and verify customer download delivery before enabling checkout.
 
 The current PDFs are flat worksheets for handwriting; no interactive forms or planner-app hyperlinks are included.
